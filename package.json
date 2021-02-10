@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@iconify/iconify": "^2.0.0-rc.6",
+    "@monaco-editor/loader": "^1.0.0",
     "@vueuse/core": "^4.1.0",
     "ant-design-vue": "2.0.0",
     "axios": "^0.21.1",
